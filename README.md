@@ -9,3 +9,7 @@ In this project code will choose a number and a name from phoneno.txt and namefi
 Code editor: Visual Studio code.
 
 
+[Bahri Doğru (https://github.com/BahriDogru)]
+[Halit Arzupınar (https://github.com/Zyneste)]
+
+
